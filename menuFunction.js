@@ -1,4 +1,4 @@
-const AppBtn = document.getElementById('');
+const AppBtn = document.getElementById('appMenuBtn');
 const NavBar = document.getElementById('app__navbar');
 
 function MenuFunction(){
